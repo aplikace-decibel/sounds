@@ -1,0 +1,18 @@
+{
+    "lastUpdate": "2022-08-04T09:39:17.210Z",
+    "categories": [
+        {
+            "id": "7a3fefb0-1b25-4b84-9309-d84db7283777",
+            "name": "Banzaja",
+            "description": null
+        }
+    ],
+    "sounds": [
+        {
+            "category": "7a3fefb0-1b25-4b84-9309-d84db7283777",
+            "id": "a1cf60e6-8076-4975-a0a9-2e1b96979286",
+            "name": "Banzaja (1)",
+            "file": "a1cf60e6-8076-4975-a0a9-2e1b96979286.mp3"
+        }
+    ]
+}
