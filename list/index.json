@@ -1,17 +1,225 @@
 {
     "categories": [
         {
-            "id": "7a3fefb0-1b25-4b84-9309-d84db7283777",
+            "id":   1000,
             "name": "Banzaja",
-            "description": null
+            "sounds": [ 1001, 1002 ]
+        },
+        {
+            "id":   2000,
+            "name": "Hade",
+            "sounds": [ 2001, 2002, 2003 ]
+        },
+        {
+            "id":   3000,
+            "name": "Hagrid",
+            "sounds": [ 3001, 3002, 3003, 3004 ]
+        },
+        {
+            "id":   4000,
+            "name": "Hagridův syn",
+            "sounds": [ 4001 ]
+        },
+        {
+            "id":   5000,
+            "name": "Hej",
+            "sounds": [ 5001 ]
+        },
+        {
+            "id":   6000,
+            "name": "Pentaky",
+            "sounds": [ 6001, 6002, 6003 ]
+        },
+        {
+            "id":   7000,
+            "name": "Pikolík",
+            "sounds": [ 7001 ]
+        },
+        {
+            "id":   8000,
+            "name": "Saláma",
+            "sounds": [ 8001, 8002 ]
+        },
+        {
+            "id":   9000,
+            "name": "Šerife, otevři bránu",
+            "sounds": [ 9001 ]
+        },
+        {
+            "id":  10000,
+            "name": "Síla baziliška",
+            "sounds": [ 10001 ]
+        },
+        {
+            "id":  11000,
+            "name": "Starý Římoa",
+            "sounds": [ 11001, 11002 ]
+        },
+        {
+            "id":  12000,
+            "name": "Třísla v pytli",
+            "sounds": [ 12001, 12002 ]
+        },
+        {
+            "id":  13000,
+            "name": "Yee-haw",
+            "sounds": [ 13001, 13002 ]
+        },
+        {
+            "id":  14000,
+            "name": "Jú-chá",
+            "sounds": [ 14001, 14002 ]
         }
+
     ],
     "sounds": [
         {
-            "category": "7a3fefb0-1b25-4b84-9309-d84db7283777",
-            "id": "a1cf60e6-8076-4975-a0a9-2e1b96979286",
+            "id":   1001,
             "name": "Banzaja (1)",
-            "file": "a1cf60e6-8076-4975-a0a9-2e1b96979286.mp3"
+            "file": "banzaja/1.ogg"
+        },
+        {
+            "id":   1002,
+            "name": "Banzaja (2)",
+            "file": "banzaja/2.ogg"
+        },
+
+        {
+            "id":   2001,
+            "name": "Hade (1)",
+            "file": "hade/1.ogg"
+        },
+        {
+            "id":   2002,
+            "name": "Hade (2)",
+            "file": "hade/2.ogg"
+        },
+        {
+            "id":   2003,
+            "name": "Hade (3)",
+            "file": "hade/3.ogg"
+        },
+
+        {
+            "id":   3001,
+            "name": "Hagrid (1)",
+            "file": "hagrid/1.ogg"
+        },
+        {
+            "id":   3002,
+            "name": "Hagrid (2)",
+            "file": "hagrid/2.ogg"
+        },
+        {
+            "id":   3003,
+            "name": "Hagrid (3)",
+            "file": "hagrid/3.ogg"
+        },
+        {
+            "id":   3004,
+            "name": "Hagrid (4)",
+            "file": "hagrid/4.ogg"
+        },
+
+        {
+            "id":   4001,
+            "name": "Hagridův syn (1)",
+            "file": "hagriduv_syn/1.ogg"
+        },
+
+        {
+            "id":   5001,
+            "name": "Hej (1)",
+            "file": "hej/1.ogg"
+        },
+
+        {
+            "id":   6001,
+            "name": "Pentaky (1)",
+            "file": "pentaky/1.ogg"
+        },
+        {
+            "id":   6002,
+            "name": "Pentaky (2)",
+            "file": "pentaky/2.ogg"
+        },
+        {
+            "id":   6003,
+            "name": "Pentaky (3)",
+            "file": "pentaky/3.ogg"
+        },
+
+        {
+            "id":   7001,
+            "name": "Pikolík (1)",
+            "file": "pikolik/1.ogg"
+        },
+
+        {
+            "id":   8001,
+            "name": "Saláma (1)",
+            "file": "salama/1.ogg"
+        },
+        {
+            "id":   8002,
+            "name": "Saláma (2)",
+            "file": "salama/2.ogg"
+        },
+
+        {
+            "id":   9001,
+            "name": "Šerife, otevři bránu (1)",
+            "file": "serife_otevri_branu/1.ogg"
+        },
+
+        {
+            "id":  10001,
+            "name": "Síla baziliška (1)",
+            "file": "sila_baziliska/1.ogg"
+        },
+
+        {
+            "id":  11001,
+            "name": "Starý Římoa (1)",
+            "file": "stary_rimoa/1.ogg"
+        },
+        {
+            "id":  11002,
+            "name": "Starý Římoa (2)",
+            "file": "stary_rimoa/2.ogg"
+        },
+
+        {
+            "id":  12001,
+            "name": "Třísla v pytli (1)",
+            "file": "trisla_v_pytli/1.ogg"
+        },
+        {
+            "id":  12002,
+            "name": "Třísla v pytli (2)",
+            "file": "trisla_v_pytli/2.ogg"
+        },
+
+        {
+            "id":  13001,
+            "name": "Yee-haw (1)",
+            "file": "yee_haw/1.ogg"
+        },
+        {
+            "id":  13002,
+            "name": "Yee-haw (2)",
+            "file": "yee_haw/2.ogg"
+        },
+
+        {
+            "id":  14001,
+            "name": "Jú-chá (1)",
+            "file": "ju_cha/1.ogg"
+        },
+        {
+            "id":  14002,
+            "name": "Jú-chá (2)",
+            "file": "ju_cha/2.ogg"
         }
     ]
 }
